@@ -17,7 +17,7 @@ def join_files(files):
     for filename in files:
         with open(filename, 'r') as file:
             for line in file:
-                if not line.strip().startswith('[Adblock Plus 2.0]') and not line.strip().startswith('!'):
+                if not line.startswith(("[", "!")):
                     merged_lines.add(line)
     
     sorted_lines = sorted(merged_lines)
@@ -41,7 +41,6 @@ join_files(files)
 for filename in files:
     os.remove(filename)
 
-# Add, commit, and push the file (Git commands are kept the same)
 os.system(f'git config --global user.email "${{GITHUB_ACTOR_ID}}+${{GITHUB_ACTOR}}@users.noreply.github.com"')
 os.system(f'git config --global user.name "$(gh api /users/${{GITHUB_ACTOR}} | jq .name -r)"')
 os.system('git add filters.txt || error "Failed to add the filters list to repo"')
