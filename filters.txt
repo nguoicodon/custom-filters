@@ -45438,6 +45438,7 @@
 ##.vm-ad-horizontal
 ##.vm-gdpr
 ##.vm_cookieBarWrapper
+##.vmag_medium_ad
 ##.vmapi-infocookies-wrapper
 ##.vmn_banner-wrapper
 ##.vmp-ad
@@ -46150,6 +46151,7 @@
 ##.wp125ad
 ##.wp125ad_2
 ##.wp_bannerize
+##.wp_bannerize_banner_box
 ##.wp_bannerize_container
 ##.wp_email_capture_widget
 ##.wp_followme_c2
@@ -48530,6 +48532,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /Components/newsletter/*
 /Cookie-popup-
 /CookieAlertBootStrapper.js
+/CookieBannerToIncludeCompiled.js
 /CookieBubble.js
 /CookieConsentTracking-SetCookieDnt
 /CookieLawProduct/resources/generatejs
@@ -48537,7 +48540,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /CookieNotifier.min.js
 /CookieSettingsManager?
 /CookieWall/clb.js
-/CookiesManager.
+/CookiesManager.js
 /CookiesNotification.min.js
 /Cookies_Pro.js
 /Cream_CookieConsent/js/check-cookie-consent.js
@@ -49043,7 +49046,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /ads_bg.
 /ads_bottom.
 /ads_bottom_
-/ads_controller.
+/ads_controller.js
 /ads_dfp/*
 /ads_display.
 /ads_files/*
@@ -49471,7 +49474,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /ccbundle2.min.js
 /ccm/public/app.js
 /ccm19.js
-/ccm19/*
+/ccm19/public/app.js
 /ccpa/getPrivacyFlag?
 /ccpa/prod/*
 /cdn-cgi/pe/bag2?*odb.outbrain.com
@@ -49499,7 +49502,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /cmp-init.js
 /cmp-loader.js
 /cmp-sp.js
-/cmp-v2/*
 /cmp.bundle.js
 /cmp.complete.bundle.js
 /cmp/cmp.js
@@ -49551,10 +49553,9 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /consent-tracking-api.js
 /consent.min.js?
 /consent/cookie.js
-/consent/manager/*$script
 /consent_banner.js
 /consent_v2/choice.js
-/consentbanner-fragment/*
+/consentbanner-fragment/public/js/app.
 /consentbar/consent-bar.min.js
 /consentcookie.js
 /consentcookie.min.js
@@ -49611,12 +49612,11 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /cookie-law-info-ccpa.js
 /cookie-law.js
 /cookie-layer.js
-/cookie-manager/*$domain=~github.com
+/cookie-manager/script.js
 /cookie-master.js
 /cookie-message.js
 /cookie-message.min.js
 /cookie-modal.js
-/cookie-module/*
 /cookie-monster/production/*
 /cookie-notice-
 /cookie-notice.js
@@ -49671,7 +49671,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /cookieNotification.js
 /cookieNotification.min.js
 /cookieOverlay.js
-/cookieSettings.
+/cookieSettings.js
 /cookieWidget.js
 /cookie_agree.css
 /cookie_agreement_dialogue.js
@@ -49822,7 +49822,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /cookies-enabler.js
 /cookies-enabler.min.js
 /cookies-eu-banner.js
-/cookies-for-comments/*
+/cookies-for-comments/css.php
 /cookies-info.js
 /cookies-info.min.js
 /cookies-manager.js
@@ -49849,7 +49849,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /cookiesNotification.js
 /cookiesPopup.js
 /cookiesPopup.min.js
-/cookiesWidget/*
+/cookiesWidget/widget.js
 /cookies_alert.js
 /cookies_alert.min.js
 /cookies_bar.js
@@ -49874,10 +49874,12 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /cookieser.js
 /cookiesgdpr?
 /cookieslayer.js
+/cookiesmanager.min.js
 /cookiesplus-front.js
 /cookiespolicy.js
 /cookiestatement.js
 /cookiestrip.min.js
+/cookieswidget.js
 /cookieu.js
 /cookiewall?
 /cookiewarn.js
@@ -49971,6 +49973,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /dfp/head/*
 /dfpNew.
 /dfp_async.
+/dh_cookie_manager_1.js
 /didna_config.js
 /didomi.js
 /didomi/loader.js
@@ -50438,7 +50441,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /hustle/assets/hustle-ui/*
 /hw-cookie-consent/latest/embed.js
 /i.imgur.com/$domain=xemphimchill.net
-/i.imgur.com/*.gif$image,domain=tvzinghd.com|xoilac89.tv|keonhacai5.top|bongdainfoz.com|90phutx.tv|vebot.live|cakhia7.vip|plvb.xyz|mitomb.tv|motchillz.org|xoilaczn.tv|xemtivingon.org
+/i.imgur.com/*.gif$image,domain=tvzinghd.com|xoilac89.tv|keonhacai5.top|bongdainfoz.com|90phutx.tv|vebot.live|cakhia8.vip|plvb.xyz|mitom5.net|motchillz.org|xoilaczi.tv|xemtivingon.org
 /i/npage/*$script,third-party
 /i_CookieConsent.js
 /ibd-block-adblocker/*
@@ -50628,7 +50631,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /keyade.js
 /keyword_ad.
 /kixsimpletrack/views/js/front.min.js
-/klaro-cookieconsent/*
+/klaro-cookieconsent/config.js
 /klaro-no-css.js
 /klaro-no-translations-no-css.js
 /klaro-styles.min.
@@ -50667,7 +50670,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /lg-share.
 /lgdpscript.min.js
 /lgpd-cookie.js
-/lgpd-cookie/*
+/lgpd-cookie/js/actions.js
 /lgpd-upside/assets/js/main.js
 /lgpd/cookie.js
 /li.blogtrottr.com/imp?
@@ -50753,10 +50756,9 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /middleads.
 /min/ads/*
 /mm-newsletter/*
-/mmo/*$xmlhttprequest,image,domain=phimnhanh2.com|phimmoi2.com|mephimnhat2.com|vuighe2.com|mehoathinh3.com
+/mmo/*$xmlhttprequest,image,domain=phimmoi2.com|vuighe2.com|mehoathinh3.com
 /mnav/newsletter.
 /mnpw3.js
-/moatsdk.min.js
 /mobile-ad.
 /mobile-share-
 /mobile-sharing/*
@@ -51360,7 +51362,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /pushy-ver.js
 /pustrck.js
 /pwcookielaw.js
-/pwd-cookie-consent/*
+/pwd-cookie-consent.js
 /pxpcookies.js
 /q/tdl/95/dnt/*
 /qc-consent.js
@@ -51445,7 +51447,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /rightad/*
 /rightads.$domain=~rightads.co.uk
 /rm-cookieconsent.js
-/rodo-agreement-popup/*
+/rodo-agreement-popup.min.js
 /rodo-iframe?
 /rodo-plugin/js/rodo.js
 /rodo.min.js
@@ -51475,7 +51477,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /sc-tagmanager/*
 /sc-twitter-
 /sc4fr/rwff/f9ef/*
-/scdn.bongdadem.net/*.gif$domain=xoilac89.tv,image
 /script/awesome.js
 /script/java.php?$xmlhttprequest
 /script/nasu.js$third-party
@@ -51639,6 +51640,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /showbanner.
 /shrMain.min.js
 /shr_btn_
+/si-cookie-manager.js
 /sibar-social.
 /sibbo-cmp-core.js
 /side-ad-
@@ -51741,7 +51743,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /snack-cmp_v2.min.js
 /snap-popup.js
 /sncmp.min.js
-/sni_cookie_privacy/*
+/sni_cookie_privacy/js/cookie_consent.js
 /snow-fall.js
 /snow-falling.js
 /snow-storm-$script
@@ -52006,7 +52008,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /tm.cookie.js
 /tncms/ads/*
 /tnt.ads.
-/tnzcookie/*
+/tnzcookie/views/*
 /to_pagetop.
 /toolbar-digg.
 /toolbar-facebook.
@@ -52867,7 +52869,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||api.paymentwall.com^$domain=adguard.com
 @@||api.transcend.io/privacy/graphql$xmlhttprequest
 @@||apibay.org^$script,xmlhttprequest,domain=thepiratebay.org
-@@||apicdn.sctvonline.vn/tenants/sctv/$xmlhttprequest,~third-party
+@@||apicdn.sctvonline.vn/tenants/sctv/$xmlhttprequest,domain=sctvonline.vn
 @@||apikeys.civiccomputing.com^$xmlhttprequest,domain=videogameschronicle.com
 @@||apis.kostprice.com/fapi/$script,domain=gadgets.ndtv.com
 @@||apkmirror.com^$generichide
@@ -52994,6 +52996,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||cdn.transcend.io/cm/$script,domain=visible.com
 @@||cdn.trustcommander.net/privacy/$script,domain=edeka.de|tf1.fr|tf1info.fr
 @@||cdn.vidoza.co/js/$script,domain=vidoza.co|vidoza.net
+@@||cdn.wgchrrammzv.com/prod/ajc/loader.min.js$domain=journal-news.com
 @@||cdn.wisepops.com/shared/wisepops/$script,domain=bluecinema.ch
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=vidoza.co|vidoza.net
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/6.0.0/videojs-contrib-ads.js$script,domain=sctvonline.vn
@@ -53024,6 +53027,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||cloudflare.com^*/videojs-contrib-ads.js$domain=wtk.pl
 @@||cloudfront.net/js/common/invoke.js
 @@||cloudfront.net^*/lib.f-cookie-banner.$script,domain=just-eat.co.uk|just-eat.es|just-eat.ie|justeat.it
+@@||cmp-assets.pubtech.ai^$domain=youmath.it
 @@||cmp-consent-tool.privacymanager.io^$subdocument,domain=dailybuzz.nl|esquire.de|futurezone.at|geenstijl.nl|gids.tv|kinuskikissa.fi|kleinezeitung.at|kurier.at|lablue.de|nettivuokraus.com|omroepbrabant.nl|parra.nu|plusonline.nl|profil.at|rtvnoord.nl|vesti.bg|weeronline.nl|weerplaza.nl
 @@||cmp-proxy.idealo.de/Notice.$script,stylesheet,domain=idealo.de
 @@||cmp.osano.com^$script,domain=lucidchart.com|meeting.guidepoint.com
@@ -53704,7 +53708,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@||static.amcdn.vn/tka/cdn.js$script,domain=genk.vn
 @@||static.axept.io/sdk-slim.js$script,domain=www.welcometothejungle.com
 @@||static.cleverpush.com^$domain=11freunde.de|auto-motor-sport.de|auto-motor-und-sport.de|autobild.de|bike-bild.de|bild.de|boerse-online.de|brigitte.de|businessinsider.de|bz-berlin.de|clever-tanken.de|computerbild.de|eltern.de|emarketer.com|express.de|faz.de|faz.net|finanzen.at|finanzen.ch|finanzen.net|fitbook.de|focus.de|gala.de|gamechannel.com|geo.de|gofeminin.de|handelsblatt.com|idealo.at|idealo.co.uk|idealo.de|idealo.es|idealo.fr|idealo.it|immonet.de|insider-inc.com|insider.com|insiderintelligence.com|jetzt.de|kabeleins.de|kochbar.de|kombi.de|meinestadt.de|metal-hammer.de|musikexpress.de|myhomebook.de|n-tv.de|noizz.de|onmeda.de|politico.eu|prosieben.de|ran.de|rollingstone.de|rtl.de|rtl2.de|sat1.de|seloger.com|sixx.de|spiegel.de|sport.de|sportbild.bild.de|stern.de|stylebook.de|techbook.de|testbild.de|transfermarkt.at|transfermarkt.ch|transfermarkt.co.uk|transfermarkt.com|transfermarkt.com.tr|transfermarkt.de|transfermarkt.fr|transfermarkt.it|transfermarkt.nl|transfermarkt.pl|transfermarkt.pt|transfermarkt.us|travelbook.de|tvnow.de|tvspielfilm.de|vip.de|vox.de|welt.de|wetter.com|wetter.de|wieistmeineip.at|wieistmeineip.ch|wieistmeineip.de|zeit.de|axelspringer.com|sport1.de|sueddeutsche.de
-@@||static.doubleclick.net/instream/ad_status.js$domain=hidden.vn|anonyviet.com
+@@||static.doubleclick.net/instream/ad_status.js$domain=hidden.vn
 @@||static.doubleclick.net/instream/ad_status.js$script,domain=ignboards.com
 @@||static.go3.tv/file/go3/resources/*/onetrust.html$domain=play.tv3.lt|tv3play.skaties.lv
 @@||static.parastorage.com/services/editor-elements/dist/facebookshare.$script,third-party
@@ -55112,8 +55116,8 @@ animevietsub.boctem.com,fimfast.pro,phimdinhcao.net,phimlongtieng.net,phimdinhca
 animevietsub.fan###invideo_wrapper
 animevietsub.fan##.Ads
 animevietsub.fan##.mobile-catfixx
-animevietsub.fan##.pc-catfixx
 animevietsub.fan##div[style^="position: fixed; top: 60px"]
+animevietsub.fan,gianhangsach.com##.pc-catfixx
 animeworld.tv##.social-aw
 animexin.vip###overplay
 aninews.in,footballorgin.com,gadgets360.com,hardwaretimes.com,justthenews.com,ndtv.com,oneindia.com,wionews.com,zeebiz.com###parentDiv0
@@ -56579,7 +56583,6 @@ bongda365f.com##.adsInPlayer
 bongda365f.com##.bet-list
 bongda365f.com##.buttonFabet
 bongda365f.com##.top-bet-list
-bongdahomnay.org###fixed-advert-center-panel
 bongdainfoz.com##.oddsCompany
 bongdalu6.com##div[id^="AdLayer"]
 bongdalu6.com##div[id^="ad_"]
@@ -57050,12 +57053,12 @@ caixinglobal.com##.pc-ad-left01
 cakhia20.com,cakhia25.live,cakhia22.live,caheo7.tv##.container-banner
 cakhia20.com,cakhia25.live,cakhia22.live,caheo7.tv##.modal-ads
 cakhia20.com,cakhia25.live,cakhia22.live,caheo7.tv##div[class^="slide-bar"]
-cakhia7.vip##.container.mt-1.d-none.d-lg-block
-cakhia7.vip##.menu-item-object-custom
-cakhia7.vip##a.rlw-extra-i.py-3.flex-grow-1
-cakhia7.vip,mitomb.tv,90phut9.live##.modal-backdrop.show
-cakhia7.vip,mitomb.tv,vebo4.org,vebotv.net##.show.fade.modal
-cakhia7.vip,xoilac89.tv,mitomb.tv,90phutx.tv,vebot.live##.marquee-container
+cakhia8.vip##.container.mt-1.d-none.d-lg-block
+cakhia8.vip##.menu-item-object-custom
+cakhia8.vip##a.rlw-extra-i.py-3.flex-grow-1
+cakhia8.vip,mitom5.net,90phut9.live##.modal-backdrop.show
+cakhia8.vip,mitom5.net,vebo4.org,vebotv.net##.show.fade.modal
+cakhia8.vip,xoilac89.tv,mitom5.net,90phutx.tv,vebot.live##.marquee-container
 cala.ca,nshpca.ca##.bottom-alert
 calabria7.it,firstbanknigeria.com,radioromanista.it,whatson.is##.elementor-location-popup
 calameo.com#@#.consent.cookies
@@ -58228,6 +58231,7 @@ cronacheancona.it###intestazione
 cronn.de##.privacyoverlay
 crosscut.com##.social-connect-links
 crossfit.com##._wrapper_1u43b_17
+crossnative.com##.cookie-consent_overlay__SIXMM
 crossroadstoday.com###slidepanel
 crown.com#@##cookiePolicyModal
 croxyproxy.rocks###croxyExtraZapper
@@ -58956,6 +58960,7 @@ disk.yandex.com,disk.yandex.ru##.PSHeader-Center
 disk.yandex.com,disk.yandex.ru##.direct-public__sticky-box
 disk.yandex.com,disk.yandex.ru##.mobile-badges
 diskingdom.com##div[id="diski-"]
+disneydining.com##div[style="min-height:125px;"]
 dispatchtribunal.com,thelincolnianonline.com##.large-show
 disqus.com###email-signup
 disqus.com###siderail-sticky-ads-module
@@ -59068,7 +59073,7 @@ donedeal.ie##div[class^="DFP__StyledAdSlot-"]
 donegaldaily.com##.inpage_banner
 dongknows.com##.dkt-amz-deals
 dongknows.com##.dkt-banner-ads
-dongphim3s.net,dongchill.tv###footer_fixed_ads
+dongphim3s.net,dongchill.tv,bichill.one###footer_fixed_ads
 donnamoderna.com##.dm20-footer-social-link
 donnamoderna.com##.dm20-lory-share-panel
 donpatriot.news##.news__subscribe
@@ -60478,7 +60483,6 @@ foozine.com##.google-news-card
 fora.ie##.subscriptions
 foramax.hu,mp4bolt.hu##.ct
 forbes.com###ketch-consent-overlay
-forbes.com##.bottom__OvpYA.root__XMKIj
 forbes.com##.fbs-ad--ntv-deskchannel-wrapper
 forbes.com##.fbs-ad--ntv-home-wrapper
 forbes.com##.inline-article-ed-placeholder
@@ -60985,9 +60989,10 @@ gatestoneinstitute.org###cboxWrapper
 gatestoneinstitute.org,globalvoices.org,ibtimes.com.au,sinya.com.tw,westhawaiitoday.com###cboxOverlay
 gauchazh.clicrbs.com.br###privacy-tools-banner
 gautengnewspaper.co.za##.header__banner
-gavang.link###btn-skip
-gavang.link##.vjs-banner-bar
-gavang.link##[href="https://8xbet259.com/"]
+gavang1.link###btn-skip
+gavang1.link##.css-ylxsn9.MuiStack-root
+gavang1.link##.vjs-banner-bar
+gavang1.link##[href="https://8xbet259.com/"]
 gawker.com##.lMQ
 gawker.com##.lqj
 gay-streaming.com##.sgpb-popup-dialog-main-div-wrapper
@@ -61188,7 +61193,6 @@ ghresources.com##.wpt-modal
 ghx.com###cNotice
 giadinhonline.vn,congluan.vn,nongnghiep.vn##.exp_qc_share
 giadinhonline.vn,ducvietonline.de,vietnamnet.vn,nongnghiep.vn,dubaotiente.com,bongda.com.vn,taichinhdoanhnghiep.net.vn##.adv
-gianhangsach.com##.pc-catfixx
 gianhangsach.com##.pc_catfix_adv
 gianlucadimarzio.com##.skySportsRow
 giantfreakinrobot.com###playwire-homepage-takeover-leaderboard
@@ -61337,7 +61341,7 @@ gockhuat.net###ad_global_below_navbar
 gocomics.com#@##cookieconsent-container
 gocphimk.net##.other-ads-container
 gocphimk.net##.show-load-ad
-gocphimvn.net###mobileCatfishz
+gocphimvn.vip###mobileCatfishz
 godbolt.org###ces
 godzilla.by##.privat-policy-wrapper
 goe.irb.hr,iskon.hr###ng-cc
@@ -62067,6 +62071,7 @@ holidayinnclub.com,payloadcms.com##[class^="PrivacyBanner_"]
 hollywoodlife.com###hlifenewsletter
 hollywoodreporter.com##[id^="jwplayer"]
 hollywoodunlocked.com##.cnx-player
+holobuilder.com##.cookie-manager-main-container
 holodilnik.ru##.alert-compliance
 holymanga.net##.svl_ads_right
 homap.fr##.footer_col_social
@@ -63138,6 +63143,8 @@ job.inshokuten.com#@#.ad-title
 job.inshokuten.com,sexgr.net,webbtelescope.org#@#.ad-box
 jobbsafari.se##.hBzXzJ
 joberty.com##.cc-container
+jobijoba.com###modal-cookies-wrapper
+jobijoba.com##.modal-wrapper
 jobisjob.co.uk###adevinta_consents_cookies_universal_widget
 jobisjob.co.uk###alert-box-multiple
 jobisjob.co.uk###alert-footer-box
@@ -64720,7 +64727,6 @@ menziszorgkantoor.nl###Cookiewall
 mepasenerji.com###dataPolicies
 mephimnhe1.net,phimgichill.net,ophimhdvn3.net##.mobile-catfix
 mephimnhe1.net,phimhay.mobi##.a--d-wrapper
-mephimthai2.com,mephimmy2.com,mephimnhat2.com,mehoathinh3.com##.ff-banner
 mephimtv.net##.fancybox-container
 mephimtv.net##.flex-wrap-banner
 mephimtv.net##.movie-banner
@@ -64942,14 +64948,14 @@ mistertennis.com#@#.banner_cokie
 mitac.com##.gdpr_block
 miteco.gob.es###fondotransparencia-gris
 mitele.es##.mitele-consent
-mitomb.tv###menu-item-52424
-mitomb.tv##.btn-od
-mitomb.tv##.style-1.ml-2.d-none.d-lg-block.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-52424
-mitomb.tv,90phutx.tv##.d-lg-none.d-block.p-1.text-center
-mitomb.tv,90phutx.tv,cakhia7.vip,xoilac89.tv,vebot.live###quangcaopc
-mitomb.tv,90phutx.tv,cakhia7.vip,xoilac89.tv,vebot.live,bongdainfoz.com,xoilaczn.tv,tvhayhd.com###wap_bottombanner
-mitomb.tv,cakhia7.vip,vebot.live##.align-items-center.justify-content-between.d-flex.col-12>.d-lg-none.d-block
-mitomb.tv,cakhia7.vip,xoilac89.tv##.sub-menu.d-none.d-lg-flex
+mitom5.net###menu-item-52424
+mitom5.net##.btn-od
+mitom5.net##.style-1.ml-2.d-none.d-lg-block.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-52424
+mitom5.net,90phutx.tv##.d-lg-none.d-block.p-1.text-center
+mitom5.net,90phutx.tv,cakhia8.vip,xoilac89.tv,vebot.live###quangcaopc
+mitom5.net,90phutx.tv,cakhia8.vip,xoilac89.tv,vebot.live,bongdainfoz.com,xoilaczi.tv,tvhayhd.com###wap_bottombanner
+mitom5.net,cakhia8.vip,vebot.live##.align-items-center.justify-content-between.d-flex.col-12>.d-lg-none.d-block
+mitom5.net,cakhia8.vip,xoilac89.tv##.sub-menu.d-none.d-lg-flex
 mitsubishicorp.com###GoTop
 mitsubishielectric.com#@#.cookie_policy
 mitsui.com###js_globalFooterButtonTop
@@ -65916,7 +65922,6 @@ nhaccuatui.com###PL_R02
 nhaccuatui.com##.adv_home_300_250
 nhaccuatui.com##.nqc-zone
 nhacdj.vn###top-adv
-nhacpro.net###npads
 nhatrangclub.vn##.bannerchuyenmuc
 nhatrangclub.vn##.baseHtml.noticeContent
 nhatrangclub.vn##.show-qc-home
@@ -66910,8 +66915,9 @@ phimhaymoi.com##.popmake
 phimhaytv.info##.fixed
 phimmoi.im###container-ads
 phimmoi.im###hide_catfish
-phimmoi2.com,mephimnhat2.com,phimnhanh2.com##.player-vast-blocker
-phimmoi2.com,mephimnhat2.com,phimnhanh2.com,hhtqvietsub.top,hhchina.tv###sponsor-balloon
+phimmoi2.com##.player-vast-blocker
+phimmoi2.com,hhtqvietsub.top,hhchina.tv###sponsor-balloon
+phimmoi2.com,mehoathinh3.com##.ff-banner
 phimmoi4s.com##.box_option
 phimmoi4s.com##.event_loader_e
 phimmoi4s.com##.fix_bottom
@@ -66949,7 +66955,7 @@ phimplay24h.com###itro_popup
 phimsexhay669.co##.v4j-header>a[target="_blank"]
 phimtn.com###float_content_right
 phimtuoitho.tv##.movies-list-wrap>center
-phimvietsub.co,gocphimvn.net##.code-block
+phimvietsub.co,gocphimvn.vip##.code-block
 phimvietsub.pro##.sticky_bottom
 phimvietsub.pro,tvhayt.org,tvhay2.net##.t_logo
 phimvuihd.org,vietphims.tv,hh3dhay.com,phimtn.com,khoaiphim.com,phimhay.in,hdphim18.net,phimhay.mobi,phimtuoitho.tv,phimmois.org##.float-ck-center-lt
@@ -68864,9 +68870,9 @@ seznam.cz#@#.adMiddle
 sfasemicon.com.ph###privacyPolicy
 sfchronicle.com##.hst-freeform
 sfchronicle.com##div[class^="ad-module-"]
-sfgate.com##.inline-iframe
+sfgate.com##.ar16-9
 sfgate.com##.mnh90px
-sfgate.com##.stickyWrapper
+sfgate.com##.x100.bg-gray100
 sfinks.org.pl##div[style^="left: 0px; top:"]
 sfist.com###related-module
 sfstandard.com###zoom-event
@@ -70220,7 +70226,7 @@ thanhnien.vn##zone
 thanhtra.com.vn###Adsv
 thanhtra.com.vn##.right-banner>a[title]
 thapcam.live##.mct_-bet-bot
-thapcam.live,xoilaczn.tv,vebot.live,mitomb.tv##.btn-odds
+thapcam.live,xoilaczi.tv,vebot.live,mitom5.net##.btn-odds
 the-house.be##.bottom-20
 the-independent.com###taboola-mid-article-thumbnails-ii
 the-independent.com###taboola-mid-article-thumbnails-iii
@@ -71935,7 +71941,7 @@ vjoon.us###gdprOverlay
 vk.com,vk.ru###system_msg
 vk.se##div[style^="display: flex; align-items: center;"]
 vkoolsss.net##.box-rating
-vkoolsss.net,subnhanhvl.co,subnhanh.im,tructiepdabong5.co,mitomb.tv,tutientruyen.xyz###overlay
+vkoolsss.net,subnhanhvl.co,subnhanh.im,tructiepdabong5.co,mitom5.net,tutientruyen.xyz###overlay
 vkoolsss.net,vuonhoalan.net,gunnylau360.net,mythethao.net,phimplay24h.com,kenhgamez.info,phimno4.xyz,gunnymienphi.net,dailyphimz.com,phimhay.mobi,listnhacai1.com,phim33.tv##.float-ck
 vladimir-city.ru###cookie_pp
 vloungebeach.tv###scroll_up
@@ -72048,7 +72054,7 @@ vuejs.org##.text-ad
 vuejsdevelopers.com##.is-fixed-bottom.navbar
 vuighe2.com###balloon
 vuighe2.com##.banner-masthead
-vuighe2.com,mehoathinh3.com,phimmoi2.com,mephimnhat2.com,phimnhanh2.com##.player-midpoint-progress
+vuighe2.com,mehoathinh3.com,phimmoi2.com##.player-midpoint-progress
 vukajlija.com#@#.large-advert
 vungoctuan.vn##.bf-3-primary-column-size.bs-vc-sidebar-column.vc_col-sm-3.vc_column_container.bs-vc-column.wpb_column>.wpb_wrapper.bs-vc-wrapper
 vuonhoalan.net##.content_middle_rightbar
@@ -72742,15 +72748,15 @@ xoilac89.tv##.widget-offers__list
 xoilac89.tv##a.btn-odds[rel="nofollow"]
 xoilac89.tv##div.d-lg-none.d-block:nth-of-type(3)
 xoilac89.tv,90phutx.tv###match-child-1
-xoilac89.tv,90phutx.tv,xoilaczn.tv##.match-detail__offer
+xoilac89.tv,90phutx.tv,xoilaczi.tv##.match-detail__offer
 xoilac89.tv,tructiepdabong5.co##.offer__btn
-xoilac89.tv,vebot.live,mitomb.tv,cakhia7.vip##div[id^="dnn_"]
-xoilac89.tv,vebot.live,mitomb.tv,cakhia7.vip,90phutx.tv##.company
-xoilac89.tv,xoilaczn.tv##.menu-top-nha-cai
-xoilac89.tv,xoilaczn.tv,90phutx.tv##.menu-cuoc-8xbet
-xoilaczn.tv##.d-lg-flex.d-none.p-0.company.flex-1.table
-xoilaczn.tv##.grid-match__footer
-xoilaczn.tv##a.d-lg-none.d-block:nth-of-type(1)
+xoilac89.tv,vebot.live,mitom5.net,cakhia8.vip##div[id^="dnn_"]
+xoilac89.tv,vebot.live,mitom5.net,cakhia8.vip,90phutx.tv##.company
+xoilac89.tv,xoilaczi.tv##.menu-top-nha-cai
+xoilac89.tv,xoilaczi.tv,90phutx.tv##.menu-cuoc-8xbet
+xoilaczi.tv##.d-lg-flex.d-none.p-0.company.flex-1.table
+xoilaczi.tv##.grid-match__footer
+xoilaczi.tv##a.d-lg-none.d-block:nth-of-type(1)
 xoivo2.online,vaoroi13.online##.adLogoPlayer
 xosodaiphat.com##.adv-side-bar
 xosodaiphat.com##.banner-adv-wrapper
@@ -72944,7 +72950,6 @@ youtube.com###alert-banner > .ytd-browse > .yt-alert-with-actions-renderer
 youtube.com###feed-pyv-container
 youtube.com###merch-shelf
 youtube.com###notification-footer
-youtube.com###pla-shelf
 youtube.com###player-ads
 youtube.com###secondary-links
 youtube.com###video-masthead
@@ -77851,7 +77856,7 @@ zyro.com##.ebook-banner
 ||assetknowledgeregret.com^
 ||assetknowledgeregret.com^$popup
 ||assetlab.io/consent/
-||assets-vaegaa.wedodemos.com/ads/$image
+||assets-vaegaa.wedodemos.com/ads/$image,domain=vaoroi13.online
 ||assets.newsmaxwidget.com^$third-party
 ||assets.pinterest.com/js/pinit.js$third-party
 ||assets.pinterest.com/pidget.html$third-party
@@ -78404,7 +78409,6 @@ zyro.com##.ebook-banner
 ||azpresearch.club^
 ||azqq.online^$popup
 ||azraelzvro.com^
-||azrom.net/wp-content/plugins/best-ads-block-detector/
 ||azskk.com^
 ||aztecash.com^
 ||azulcw7.com^
@@ -78800,7 +78804,6 @@ zyro.com##.ebook-banner
 ||batch.com^$third-party
 ||batcherg.com^
 ||batdongsan.com.vn/*/Banner/
-||batdongsan24h.com.vn/images/banners/
 ||batebalmy.com^
 ||batedisqualify.com^
 ||bathbrrvwr.com^
@@ -79944,7 +79947,6 @@ zyro.com##.ebook-banner
 ||bongacams8.com/track?$popup
 ||bongacash.com/tools/promo.php
 ||bongauns.xyz^
-||bongdadem.net^*.gif
 ||bongdalu4.com^*.gif
 ||bonicus.com^
 ||bonnetiere-infrangible-burthening.xyz^
@@ -81132,7 +81134,6 @@ zyro.com##.ebook-banner
 ||cdn.adxcontent.com^
 ||cdn.allsportsflix.best^$third-party
 ||cdn.applixir.com^$third-party
-||cdn.baogiaothong.vn/upload/images/*ad_image/
 ||cdn.bescore.com^$third-party
 ||cdn.ex.co^$third-party
 ||cdn.fedsy.xyz^
@@ -81144,7 +81145,7 @@ zyro.com##.ebook-banner
 ||cdn.neighbourly.co.nz/widget/$subdocument
 ||cdn.optmd.com^$popup
 ||cdn.optmn.cloud^
-||cdn.pixfuture.com/adb-media/adb_detect_pixfuture.js
+||cdn.pixfuture.com/adb-media/adb_detect_pixfuture.js$domain=saigonbao.com
 ||cdn.pljs.ru^$third-party
 ||cdn.privacy-mgmt.com^$domain=anisearch.com|anisearch.de|anisearch.es|anisearch.fr|anisearch.it|anisearch.jp|idealo.co.uk|marketwatch.com|taz.de|wsj.com
 ||cdn.qgr.ph^$third-party
@@ -81160,13 +81161,11 @@ zyro.com##.ebook-banner
 ||cdn.trustcommander.net/privacy/$script
 ||cdn.vaughnsoft.net/abvs/
 ||cdn.wadawada-stop-report-us.com^$third-party
-||cdn.webhoctienganh.com/asset/home/img/banner/
-||cdn1.gavang.tech/api/static/QC$media,domain=gavang.link
-||cdn1.gavang.tech^*.gif
+||cdn.webhoctienganh.com/asset/home/img/banner/$image,domain=webhoctienganh.com
 ||cdn1.pro^
 ||cdn1.skrill.com^
 ||cdn12359286.ahacdn.me^
-||cdn2-img.net^*.gif$image,domain=hhpanda.cc|dongchill.tv|biphim.io|subnhanh.im|subnhanhvl.co
+||cdn2-img.net^*.gif$image,domain=hhpanda.cc|dongchill.tv|biphim.io|subnhanh.im|subnhanhvl.co|bichill.ones
 ||cdn259.talksport.com^
 ||cdn28786515.ahacdn.me^
 ||cdn2cdn.me^
@@ -81607,6 +81606,7 @@ zyro.com##.ebook-banner
 ||chokertraffic.com^$popup
 ||chokeweaknessheat.com^
 ||chokupsupto.com^
+||cholatetapalos.com^
 ||choobinoobi.com^
 ||choogeet.net^
 ||choomsiesurvey.top^
@@ -81951,6 +81951,7 @@ zyro.com##.ebook-banner
 ||clickopop1000.com^
 ||clickosmedia.com^
 ||clickosmedia.com^$popup
+||clickoutcare.io^$third-party
 ||clickoutnetwork.care^
 ||clickpapa.com^
 ||clickperks.info^
@@ -83068,8 +83069,10 @@ zyro.com##.ebook-banner
 ||creative-bars1.com^
 ||creative-serving.com^
 ||creative-thought.pro^
+||creative.141live.com^
 ||creative.favy.cam^
 ||creative.imagetwistcams.com^$subdocument
+||creative.kbnmnl.com^
 ||creative.leojmp.com^$third-party
 ||creative.live.javhdporn.net^
 ||creative.live.javmix.tv^
@@ -83268,7 +83271,6 @@ zyro.com##.ebook-banner
 ||ctuklyeconnec.xyz^
 ||ctwlucwq.com^
 ||ctxtfl.com^$third-party
-||cuahangsach.info^*.gif$image
 ||cubbingrebbes.com^
 ||cubenliven.com^
 ||cubeslichees.com^
@@ -84378,6 +84380,7 @@ zyro.com##.ebook-banner
 ||daunnotes.com^
 ||dauntlessamusingcomrade.com^
 ||dauntslip.com^
+||dautegoa.xyz^
 ||davaifoa.com^
 ||davbaqlajfza.com^
 ||davjdaauvlp.com^
@@ -84487,6 +84490,7 @@ zyro.com##.ebook-banner
 ||dearlyseedsad.com^
 ||dearlystoop.com^
 ||deatchshipsmotor.com^
+||deathssm.com^
 ||deavynuotbrohw.xyz^
 ||debartoloqbacademy.com^
 ||debatableslippers.com^
@@ -85731,6 +85735,7 @@ zyro.com##.ebook-banner
 ||drawingsugarnegative.com^
 ||drawingwaved.com^
 ||drawingwheels.com^
+||drawlycusec.com^
 ||drawnperink.com^
 ||drawx.xyz^
 ||draydaisbitch.com^
@@ -87647,6 +87652,7 @@ zyro.com##.ebook-banner
 ||facebook.com/widgets/recommendations.php?$third-party
 ||facebook.com^*/plugins/like.php?$third-party
 ||facebook.com^*/plugins/page.php?$third-party
+||facebook.com^*/plugins/share_button.php?$third-party
 ||faceporn.com^$third-party
 ||facersmangles.com^
 ||facesnotebook.com^
@@ -87717,6 +87723,7 @@ zyro.com##.ebook-banner
 ||faithcollarhook.com^
 ||faithfulfacultativeladder.com^
 ||faithfullyprotectionundo.com^
+||faithiqs.com^
 ||faitis.com^
 ||faiverty-station.com^
 ||faiverty-station.com^$popup
@@ -89689,6 +89696,7 @@ zyro.com##.ebook-banner
 ||ghtry.amateurswild.com^
 ||ghttohimhedra.cc^
 ||ghyhwiscizax.com^
+||gianhangsach.com^*.gif$image
 ||giantaffiliates.com^
 ||gianwho.com^
 ||giatot7.com/popunder8.min.js$domain=xemphim.sbs
@@ -89764,6 +89772,7 @@ zyro.com##.ebook-banner
 ||givememmastreams.com^$third-party
 ||givemysoft.ru^
 ||givenconserve.com^
+||givesboranes.com^
 ||givide.com^
 ||givill.com^
 ||giving-weird.pro^
@@ -92007,7 +92016,7 @@ zyro.com##.ebook-banner
 ||i.imgur.com/Q0a2mv2.png
 ||i.imgur.com^$image,domain=nhacdj.vn|phimdinhcao.net|phimlongtieng.net|phimdinhcao.com|truyenfull.vn|animet.net|diendanit.net|banbuondalat.com|khoedep.vn|animeweb.vip|xemphimvuis.com|hhhtq.net|hoathinhtq.tv|tinsoikeo.vip|phim18zz.com|chillhay-net.pro
 ||i.imgur.com^$image,domain=phym18.org|phim18hd.biz|phim18vn.biz|phim18hd.me|xamvn.love
-||i.imgur.com^*.gif$image,domain=fimfast.pro|subnhanh.xyz|biphimvn.net|vungtv.us|hayghe.fan|motphimle.sbs|mephimgi.net|mephimtv.co|hdphimhay1.xyz|ghienphim8.net|phimvietsub.pro|mphim14.com|phim.city|247phim.cc|biphims.cc|dailyphimz.com|phimmoiaz.cc|hhpanda.cc|phimgichill.net|ophimhdvn3.net|mythethao.net|megalink.vip|xemtivi4k.com|mephimnhe1.net|animevietsub.fan|tvhay2.net|cakhia20.com|cakhia25.live|cakhia22.live|vtipster.net|subnhanhvl.co|subnhanh.im|mphimmoi1.xyz|biphim.io|bichill.one|tructiepnba.com|bongdahomnay.org|hhtq.vip|huphimtv.com|phimmoipro2.net|forum.gocmod.com|rakhoi9.live|rakhoi10.live|vietphims.tv|zuiphim.com|listnhacai1.com|mannhan2.live|xamvn.vc|ketqua9.net|ketqua3.net|phimtn.com|xoilac14.org|film365.in|vebo8.link|90phut9.live|phimnet.vip|xemphimviet1.net|phimvietsub.co|mitomb.tv|90phutx.tv|player.4shares.live|thapcam.live|vkool2.net|caheo7.tv|livefb.xyz|phimmoiyyy.net|phimbom.net|vebo4.org|vebotv.net|tvhayhd.com|hhtrungquoc.com
+||i.imgur.com^*.gif$image,domain=fimfast.pro|subnhanh.xyz|vungtv.us|hayghe.fan|motphimle.sbs|mephimgi.net|mephimtv.co|hdphimhay1.xyz|ghienphim8.net|phimvietsub.pro|mphim14.com|phim.city|247phim.cc|dailyphimz.com|phimmoiaz.cc|hhpanda.cc|phimgichill.net|ophimhdvn3.net|mythethao.net|megalink.vip|xemtivi4k.com|mephimnhe1.net|animevietsub.fan|tvhay2.net|vtipster.net|subnhanhvl.co|subnhanh.im|mphimmoi1.xyz|tructiepnba.com|hhtq.vip|huphimtv.com|phimmoipro2.net|forum.gocmod.com|rakhoi9.live|rakhoi10.live|vietphims.tv|zuiphim.com|listnhacai1.com|mannhan2.live|xamvn.vc|ketqua9.net|ketqua3.net|phimtn.com|xoilac14.org|film365.in|vebo8.link|90phut9.live|phimnet.vip|xemphimviet1.net|phimvietsub.co|mitom5.net|90phutx.tv|player.4shares.live|thapcam.live|vkool2.net|caheo7.tv|livefb.xyz|phimmoiyyy.net|phimbom.net|vebo4.org|vebotv.net|tvhayhd.com|hhtrungquoc.com
 ||i.servimg.com/u/f22/$image,domain=4rkinggame.com
 ||i.upanh.org^*.gif$domain=phimhay.mobi
 ||i0.wp.com/s1.uphinh.org/*.gif$domain=massagevua.net|mythethao.net
@@ -92299,7 +92308,6 @@ zyro.com##.ebook-banner
 ||ilusors.com^
 ||ilxhsgd.com^
 ||ilyf4amifh.com^
-||im.inciseclops.com^
 ||imad24.com^
 ||image.24h.com.vn^*banner
 ||image.diaoconline.vn/banner-dool/$domain=diaoconline.vn
@@ -100904,6 +100912,7 @@ zyro.com##.ebook-banner
 ||paucityirido.space^
 ||pauewr4cw2xs5q.com^
 ||pauhoano.com^
+||paujudih.xyz^
 ||paulinruntime.digital^
 ||paulty.com^
 ||paurozel.net^
@@ -101478,7 +101487,7 @@ zyro.com##.ebook-banner
 ||piasterpoleyns.com^
 ||piazza.cc/public/app.js
 ||pibgornspooks.top^
-||pic1025.com^*gif$domain=phimmoiaz.cc|xemtivi4k.com|biphims.co|biphims.cc
+||pic1025.com^*gif$domain=phimmoiaz.cc|xemtivi4k.com
 ||picadmedia.com^
 ||picalchymic.uno^
 ||picath.com^
@@ -102822,6 +102831,7 @@ zyro.com##.ebook-banner
 ||prosecutorkettle.com^
 ||proseoverlook.com^
 ||proseoverlook.com^$popup
+||prositzapas.com^
 ||prospectconductorcheerfully.com^
 ||prospecttunaante.com^
 ||prosperent.com^
@@ -103688,6 +103698,7 @@ zyro.com##.ebook-banner
 ||qqkcmafkxossru.com^
 ||qqkzjpupluv.com^
 ||qqlnvwjtjhve.com^
+||qqmhh.com^
 ||qqmvwjvrlyery.top^
 ||qqqqbdma.com^
 ||qqqwes.com^
@@ -106014,6 +106025,7 @@ zyro.com##.ebook-banner
 ||scmp.com/misc/inkstone_sub_widget/
 ||scmp.com/sw.js
 ||scnd-tr.com^
+||scoggerashrams.com^
 ||sconceszeugite.com^
 ||sconvtrk.com^
 ||scoop.it^$third-party
@@ -107616,7 +107628,7 @@ zyro.com##.ebook-banner
 ||somvprqshxr.com^
 ||son-in-lawmorbid.com^
 ||sonalrecomefuk.info^
-||sonar.viously.com^
+||sonar.viously.com^$domain=~aufeminin.com|~melty.fr
 ||songtopbrand.com^
 ||sonic-ui.highereducation.com^$third-party
 ||sonichits.com/tf.php
@@ -108225,6 +108237,7 @@ zyro.com##.ebook-banner
 ||stbm.it/utility-fe/prod/general/network.common.v2.js
 ||stbvip.net^
 ||stc.nas.nixcdn.com^*.gif
+||stc02bc54661548.cloud.anycastapnic.com^*.gif$domain=gavang1.link
 ||stdirection.com^
 ||ste23allas5ri6va.com^
 ||steadydonut.com^
@@ -112142,7 +112155,6 @@ zyro.com##.ebook-banner
 ||vaikijie.net^
 ||vaikuttajamedia.fi^*/markuk_evastevaroitus.js
 ||vailedapetaly.com^
-||vailonxx.com/wp-content/themes/vtube/js/ads.js$script
 ||vainfulkmole.com^
 ||vaipsona.com^
 ||vaipsouw.com^
@@ -112859,6 +112871,7 @@ zyro.com##.ebook-banner
 ||vocalreverencepester.com^
 ||vocath.com^
 ||vod-cash.com^$third-party
+||vod02bc25882576.cloud.anycastapnic.com/8xBET_480p.mp4$domain=gavang1.link
 ||vodconcepts.com^*/banners/
 ||vodjnqarncm.com^
 ||vodobyve.pro^
@@ -113946,6 +113959,7 @@ zyro.com##.ebook-banner
 ||winternewsnow.name^
 ||winterolivia.com^
 ||wintjaywolf.org^
+||winxclub.com^*/dfp.js?
 ||wipedhypocrite.com^
 ||wipeilluminationlocomotive.com^
 ||wipeunauthorized.com^
