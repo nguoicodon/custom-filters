@@ -21451,7 +21451,9 @@
 ##.adv_under_menu
 ##.advads-background
 ##.advads-close-button
+##.advads-parallax-container
 ##.advads-sticky
+##.advads-target
 ##.advads-widget
 ##.advads_ad_widget-11
 ##.advads_ad_widget-18
@@ -34326,6 +34328,7 @@
 ##.ld-ad
 ##.ld-ad-inner
 ##.ld-cookie-notice
+##.ldm_ad
 ##.lds-cookie-consent
 ##.lead-ad
 ##.lead-ads
@@ -39597,6 +39600,7 @@
 ##.scroll-top-button
 ##.scroll-top-inner
 ##.scroll-top-wrapper
+##.scroll-track-ad
 ##.scroll-triggered-box
 ##.scroll-up-button
 ##.scroll-up-button-wrapper
@@ -45548,6 +45552,7 @@
 ##.waldo-placeholder
 ##.waldo-placeholder-bottom
 ##.wall-ads-control
+##.wall-ads-left
 ##.wall-ads-right
 ##.wallAd
 ##.wall_ad
@@ -46792,6 +46797,7 @@
 ##a[href^="http://click.payserve.com/"]
 ##a[href^="http://com-1.pro/"]
 ##a[href^="http://d2.zedo.com/"]
+##a[href^="http://deskfrontfreely.com/"]
 ##a[href^="http://go.xtbaffiliates.com/"]
 ##a[href^="http://googleads.g.doubleclick.net/pcs/click"]
 ##a[href^="http://https://www.get-express-vpn.com/offer/"]
@@ -47040,7 +47046,10 @@
 ##a[href^="https://syndication.dynsrvtbg.com/"]
 ##a[href^="https://syndication.exoclick.com/"]
 ##a[href^="https://syndication.optimizesrv.com/"]
+##a[href^="https://t.acam.link/"]
 ##a[href^="https://t.adating.link/"]
+##a[href^="https://t.ajrkm1.com/"]
+##a[href^="https://t.ajump1.com/"]
 ##a[href^="https://t.aslnk.link/"]
 ##a[href^="https://t.grtyi.com/"]
 ##a[href^="https://t.hrtye.com/"]
@@ -47472,7 +47481,6 @@
 ##div.c-cookieconsent
 ##div.c-cookies
 ##div.c-gdpr
-##div.c-newsletter
 ##div.c-newsletter-article
 ##div.c-newsletterSignup
 ##div.c-newsletter_signup_box
@@ -48177,18 +48185,15 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 -redes-youtube.
 -right-ad.
 -rodo.min.js
--scroll-to-top/
 -share-bar/$~stylesheet
 -share-buttons2.
 -share-buttons3/$~stylesheet
--share-master/
 -share-save/
 -share-sprite-
 -share-sprite.
 -share-tools-
 -share-twiiter.
 -share-whatsapp.
--share2-master/
 -shareWidget.
 -sharebar-
 -sharebar.
@@ -48214,8 +48219,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 -sticky-social/
 -strip-ads-
 -subscribe-social.
--taboola-article.
--taboola-loader.
 -takeover-ad-
 -toolbar-social.
 -top-ads.
@@ -48225,7 +48228,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 -webicon-linkedin-
 -webicon-twitter-
 -webicon-youtube-
--widget-taboola-
 .120x600.
 .160x600.
 .160x600_
@@ -48576,7 +48578,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /PushexSDK.
 /RdmAdFeed.
 /Resources/twitter-$~xmlhttprequest
-/Ronis_Cookie/*
+/Ronis_Cookie/js/segment-preferences-popup.js
 /SWMAdPlayer.
 /SetConsentCookie.js
 /Sharefb.
@@ -49191,6 +49193,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /affiliates/banner
 /afr.php?
 /afu.php?$popup
+/ajax/cookie-policy/*
 /ajax/gdpr-desc
 /ajaxAd?
 /ajs.php?
@@ -49244,8 +49247,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /app.dsgvo.min.js
 /app/manga/themes/*/ads/pop.js
 /app/social.
-/appBackToTop/*
-/appBackToTop_
 /appSocialShare/*
 /approvazione-gdpr/*
 /apu.php?*&zoneid=
@@ -49253,7 +49254,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /arscode-ninja-popups/*$~stylesheet
 /article-shares.
 /article-social/*
-/as24-cmp/*
+/as24-cmp/consent-banner/*
 /asesor-cookies-para-la-ley-en-espana/html/front/principal.js
 /asgg.php$domain=ghostbin.me|paste.fo
 /ashare.js
@@ -49286,7 +49287,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /aws-cookie/*
 /ayoshare.js
 /b2c.cookie-
-/back-top-btn.
+/back-top-btn.png
 /back_to_top.js
 /back_to_top_
 /background_ad_
@@ -49376,10 +49377,11 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /beardeddragon/wyvern.js
 /becookiebar.js
 /bg-advert-
-/bg_scrollup_button.
 /bgmp-gdpr.js
 /bica-cookie-alert/js/bica.min.js
 /bloc_newsletter.jpg
+/block-console.js
+/block-right-click.js
 /blockblock/blockblock.jquery.js
 /blocknewsletter.js
 /blogad.
@@ -49411,15 +49413,17 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /bt_delicious.
 /bt_dmotion_
 /bt_g_twitter_
-/bt_pagetop.
+/bt_pagetop.gif
+/bt_pagetop.png
 /bt_share_
 /btn/follow?
 /btnFoursquare.
 /btnShareSprite.
-/btn_back2top.
-/btn_back2top_
-/btn_gotop.
-/btn_pagetop.
+/btn_back2top.png
+/btn_gotop.gif
+/btn_gotop.png
+/btn_pagetop.gif
+/btn_pagetop.png
 /btn_share_
 /btnsSocialMedia.
 /build/js/it-cc.js
@@ -49430,7 +49434,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /button_custom_twitter.
 /button_share.
 /button_social_
-/button_to_top.
+/button_to_top.png
 /buysellads.
 /bwSocialIcons.
 /bz-share.
@@ -49448,7 +49452,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /ccm19/public/app.js
 /ccpa/getPrivacyFlag?
 /ccpa/prod/*
-/cdn-cgi/pe/bag2?*odb.outbrain.com
 /cdn.ad.
 /cdn.ads.
 /ceef/gdt3g0/tbt/*
@@ -49514,7 +49517,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /commons/ad/*
 /commons/social/*
 /complianz.min.js
-/components/taboola/*
 /concert_ads-
 /consent-banner-
 /consent-box.js
@@ -49531,7 +49533,8 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /consentbar/consent-bar.min.js
 /consentcookie.js
 /consentcookie.min.js
-/console-blocker/*
+/console-ban.min.js
+/console-blocker/app-detect.js
 /content-ads.js
 /content/ad/*
 /content/ads/*
@@ -49552,6 +49555,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /cookie-banner.js
 /cookie-banner.min.js
 /cookie-banner/*
+/cookie-banner_v2.js
 /cookie-bar.js
 /cookie-bar.min.js
 /cookie-check.js
@@ -49640,6 +49644,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /cookieNSCconsent.min.js
 /cookieNotification.js
 /cookieNotification.min.js
+/cookieOptin.js
 /cookieOverlay.js
 /cookieSettings.js
 /cookieWidget.js
@@ -49697,7 +49702,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /cookieblocker.min.css
 /cookiebox.js
 /cookiebox.min.js
-/cookiechecker/*
 /cookiechoice.js
 /cookiechoices-v3.js
 /cookiechoices.js
@@ -49824,7 +49828,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /cookies_alert.min.js
 /cookies_bar.js
 /cookies_cnil.js
-/cookies_directive.
+/cookies_directive.js
 /cookies_gdpr.js
 /cookies_gdpr.min.js
 /cookies_it.js
@@ -49918,6 +49922,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /delivery/spc.
 /delivery_ads/*
 /designil-pdpa/*
+/detect.dev.js
 /detroitchicago/anaheim.js
 /detroitchicago/augusta.js
 /detroitchicago/boise.js
@@ -49939,6 +49944,10 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /detroitchicago/tuscon.js
 /detroitchicago/vista.js
 /detroitchicago/vpp.gif?
+/devtools-detect.js
+/devtools-detect/index.js
+/devtools-detector.js
+/devtools-detector.min.js
 /dfp.min.js$third-party
 /dfp/head/*
 /dfpNew.
@@ -49949,9 +49958,12 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /didomi/loader.js
 /diggdigg-floating-bar.js
 /digicookies.js
+/disable-devtool.js
+/disable-devtool.min.js
 /disable-devtool.min.js$script
 /disable-right-click-images/script.js
 /disable-right-click-js.js
+/disabled-source-disabled-right-click-and-content-protection/*
 /disabled_adBlock.
 /disablerightclick.js
 /disclaimer-cookies.js
@@ -49989,7 +50001,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /dsgvo_2018.js
 /dsvgo.js
 /dynamic-ads/*
-/dynamic-to-top/*
+/dynamic.to.top.min.js
 /dynamic/ads/*
 /dynamicAds.
 /dynamic_ads/*
@@ -50302,9 +50314,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /gdpr/banner.js
 /gdpr/bundle.min.js
 /gdpr/disp.js
-/gdpr/gdpr-
 /gdpr/gdpr.$script
-/gdpr/gdpr_
 /gdpr/optInCookieSSR?
 /gdpr/pdcc.min.js
 /gdpr/spd.js
@@ -50326,6 +50336,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /gdprnotice.js
 /gdprpopup.js
 /gdprscript.js
+/gen-share-master/assets/js/frontend/application.min.js
 /generateAds.
 /generate_ad.
 /generate_ads.
@@ -50344,7 +50355,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /gigya-socialize-for-wordpress/*$~script,~stylesheet
 /gm-button-social.
 /gm-push-notification-
-/go_to_top.
 /google-adsense.js
 /google-dfp-native.
 /googleAdsManager.js
@@ -50403,9 +50413,10 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /ibd-block-adblocker/*
 /ibeugdpr.js
 /ibeugdpr.min.js
-/ic_pagetop.
-/icon_gototop.
-/icon_scrollup.
+/ic_pagetop.png
+/ic_pagetop.svg
+/icon_gototop.png
+/icon_scrollup.svg
 /icon_share_
 /icon_sharethis_
 /icon_sns_
@@ -50436,7 +50447,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /img/ads/*$domain=~save.ca
 /img/aff/*
 /img_ad/*
-/imp.gif?
 /implied-consent.min.js
 /implied-cookie-consent/*
 /impop.
@@ -50522,7 +50532,8 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /jquery.eu-cookie-consent.js
 /jquery.fscookieconsent.js
 /jquery.openxtag.js
-/jquery.particleground.
+/jquery.particleground.js
+/jquery.particleground.min.js
 /jquery.peelback.
 /jquery.php/?uid=
 /jquery.shareaholic-publishers-sb.min.js
@@ -50707,7 +50718,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /modules/ad_
 /modules/ads/*
 /modules/notifications.$domain=~forum.vivaldi.net
-/modulo/taboola/*
 /moneyball/ads/*
 /mp-web-notification.
 /mp_acookie.js
@@ -50780,7 +50790,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /newsletter/subscriber/*
 /newsletter/subscription/*
 /newsletter2011_
-/newsletter_background_
 /newsletter_banner.jpg
 /newsletter_banner.png
 /newsletter_wdgts.js
@@ -50824,6 +50833,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /oascentral.$~object
 /oascentral/*
 /oasconfig/*
+/obtp.js
 /oil.*-RELEASE.min.js
 /oil/*-RELEASE.chunk.js
 /oiljs/*-RELEASE.min.js
@@ -50855,16 +50865,12 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /osb_consent.min.js
 /otBannerSdk.js
 /out?zoneId=$popup
-/outbrain-load-
 /outbrain.js
-/outbrain/base?
-/outbrain?
 /outbrainAd.
 /overlay-ad.
 /overlayShare.js
 /overlay_ad_
 /overlayads.
-/overlays/newsletter-
 /owa.MessageAdList.
 /oxcookienote.min.js
 /p2/ads/*
@@ -50958,7 +50964,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /pltk/pltk.js
 /plugin/ad/*
 /plugin/banner/videos/*$subdocument
-/plugin_cookie/*
+/plugin_cookie.js
 /plugins/StickySocialBar/js/sharefront.js
 /plugins/ad-ace/assets/js/coupons.js
 /plugins/ad-ace/assets/js/slot-slideup.js
@@ -50999,7 +51005,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /plugins/mashsharer/assets/js/mashsb.min.js
 /plugins/meks-easy-ads-widget/*
 /plugins/mts-wp-in-post-ads/*
-/plugins/newsletter/*
+/plugins/newsletter/subscription/validate.js
 /plugins/optin-monster/assets/js/api.js
 /plugins/osd-social-media-sharing/includes/style.css
 /plugins/page-cornr-
@@ -51008,7 +51014,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /plugins/popup-maker/*$script,domain=~tracktion.com
 /plugins/rightclick/*
 /plugins/rtsocial/js/rtss-main.js
-/plugins/scroll-triggered-boxes/*
+/plugins/scroll-triggered-boxes/assets/js/script.min.js
 /plugins/share-and-follow/*$image
 /plugins/share-social/icons/*$image
 /plugins/simple-social-sharing-widgets-icons/*$~stylesheet
@@ -51036,6 +51042,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /plugins/wp-moreads/*$~stylesheet
 /plugins/wp-notification-bars/*
 /plugins/wp-plus-one/wp-plus-one.js
+/plugins/wp-scroll-to-top/scr_js.js
 /plugins/wp-social-toolbar-pro/js/corescripts.js
 /plugins/wp-tweet-button/tweetn.png
 /plugins/wp125/*$~stylesheet
@@ -51099,7 +51106,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /porpoiseant/*
 /pounder-$~image
 /pp-cookie-banner/CookieBannerWithContentBlocker/main.js
-/pp-t-a-c.js$script
+/pp-t-a-c.js
 /ppd_ads.
 /ppd_ads_
 /ppp/js/permission-client$domain=hilfe.gmx.net|mein.web.de|meinaccount.gmx.net
@@ -51196,6 +51203,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /punder.php
 /pup-a9-header-bidder/*
 /purch-ad-
+/puresnow.js
 /push-notification-
 /push-notification.
 /push-notification/*
@@ -51247,6 +51255,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /pxpcookies.js
 /q/tdl/95/dnt/*
 /q2w3-fixed-widget.min.js
+/qa-social-share.css
 /qc-consent.js
 /qc1.js$script,domain=tvzinghd.com
 /qcao/*$domain=~thegioididong.com
@@ -51369,18 +51378,21 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /scripts/chatur.js
 /scripts/cookiebar/*
 /scripts/onesignal.
-/scroll-to-top.
+/scroll-to-top.png
 /scroll-to-top/*$~stylesheet
 /scroll-top-and-bottom/*
-/scroll-top.
-/scrollBtnTop.
+/scroll-top.jpg
+/scroll-top.js
+/scroll-top.png
+/scrollBtnTop.png
 /scrollShareMenu.html
-/scrollToTop.min.
-/scrollToTopConcat.
-/scroll_top.
-/scrolltopcontrol.
-/scrolltotop/*
-/scrollup_button.
+/scrollToTop.min.js
+/scrollToTop.png
+/scroll_top.png
+/scroll_top.svg
+/scrolltopcontrol.js
+/scrolltotop.js
+/scrollup_button.js
 /sdk-gdpr.min.js
 /sdk.privacy-center.
 /sdk/push_web/?zid=
@@ -51401,13 +51413,13 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /servlet/view/*
 /set_adcode?
 /sf-tagomo-privacy.js
-/sg_cookie_optin/*
 /share-bar-1.min.js
 /share-bar/build/index.js
 /share-bar/share-bar.js
 /share-button?
 /share-controller.js
 /share-controller.min.js
+/share-leadoff-public.js
 /share-on-diaspora-css.php
 /share.php?buttons=
 /share/count?
@@ -51525,7 +51537,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /sidenav_tumblr_
 /silicon-counters/*
 /silverstripe-dsgvo-cookies/js/cookies.js
-/simple-back-to-top/*
+/simple-back-to-top//js/sbtt.js
 /simple-share-$~stylesheet
 /simple-social-sharing/*$~stylesheet
 /simpler-cookie-consent.umd.js
@@ -51542,7 +51554,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /siteadvert.
 /size=*/random=*/viewid=
 /sizzlegdpr.snippet.min.js
-/skb-cookie/*
 /skin-ad_
 /skin/ad/*
 /skin/adv/*
@@ -51578,7 +51589,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /small_ads/*
 /smallad-
 /smart-app-banner.js
-/smart-cookie-kit/*
+/smart-cookie-kit/res/empty.js
 /smart-eu-cookies.min.js
 /smart_share.
 /smartad-
@@ -51597,6 +51608,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /snow-fall.js
 /snow-falling.js
 /snow-storm.js
+/snow/snow.js
 /snowfall-master.min.js
 /snowfall.jquery.js
 /snowfall.jquery.min.js
@@ -51817,11 +51829,9 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /tab-slide/assets/js/tab_slide.js
 /taboola-footer.js
 /taboola-header.js
-/taboola-iframe/*
-/taboola-module.
 /taboola.js
-/taboolaArticleFooter.
-/taboolaHead.
+/taboola/loader.js
+/taboolaHead.js
 /taboola_7.4.1.js
 /taboola_header.js
 /taboolaarticle.min.js
@@ -51832,6 +51842,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /tapatalkdetect.js
 /tardisrocinante/austin.js
 /tardisrocinante/vitals.js
+/tarful-share-public.js
 /targetingAd.
 /targetpushad.
 /tc_privacy/privacy.js
@@ -51858,14 +51869,13 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /tncms/ads/*
 /tnt.ads.
 /tnzcookie/views/*
-/to_pagetop.
+/to_pagetop.png
 /tools/newSideShare/*
 /top-ad.
 /top-ads.
 /top_ad.
 /top_ads.
 /topbutton.js
-/torna-su.
 /toucanCookie.js
 /tr?id=*&tk=$popup
 /tremoradrenderer.
@@ -51910,7 +51920,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /twittersquare.
 /twitterwidget.
 /uc-cmp/loader.js
-/ui.totop_
+/ui.totop_.png
 /uk-cookie-consent-js.js
 /ukcookie.js
 /um-gdpr.min.js
@@ -51918,7 +51928,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /unibo-cookies.min.js
 /unitb-cmp.js
 /upprev.js
-/upprev_js.
+/upprev_js.php
 /usecookies.js
 /userlike-cdn-
 /util/gdpr/geo_v1.js
@@ -51997,7 +52007,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /vpaidadrenderer.
 /vplayerad.
 /vto_plus/js_loader.php
-/w/index.php?title=*:bannercontroller
 /w034CookieDirective.js
 /w4.cookiebar.js
 /wa_lib.js
@@ -52121,7 +52130,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /wpadgu-
 /wpbanners_show.php
 /wpca-frontend.min.js
-/wpfront-scroll-top.
+/wpfront-scroll-top.min.js
 /wpie-common.min.js
 /wpjslib-ecom.js
 /wpjslib-sgap.js
@@ -52377,7 +52386,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 4399.cn,cna.com.tw,cts.com.tw,dailypioneer.com,digitimes.com.tw,mmm100.com,moneycontrol.com,rti.org.tw,sport-express.ru,weather.com.cn##.gotop
 48hills.org##.hills-adlabel
 48hills.org##.hills-inline-full-width
-48hills.org,audiobacon.net,bhamnow.com,coinedition.com,coinquora.com,elements.visualcapitalist.com,iconeye.com,kdnuggets.com,londonnewsonline.co.uk,manageditmag.co.uk,mondoweiss.net,ottverse.com,smallarmsreview.com,sportsspectrum.com,sundayworld.co.za,tampabayparenting.com,theaudiophileman.com##.adv-link
+48hills.org,audiobacon.net,bhamnow.com,coinedition.com,coinquora.com,elements.visualcapitalist.com,iconeye.com,kdnuggets.com,londonnewsonline.co.uk,manageditmag.co.uk,mondoweiss.net,ottverse.com,overclock3d.net,smallarmsreview.com,sportsspectrum.com,sundayworld.co.za,tampabayparenting.com,theaudiophileman.com##.adv-link
 4chan.org,boards.4channel.org##.danbo-slot
 4clik.com##.kHolder
 4dayweek.io##.notadvert-tile-wrapper
@@ -53969,7 +53978,6 @@ _sharrre.php?
 _sidead.
 _sidebar_ad.
 _sidebar_ad_
-_site/gotop.
 _skinad.
 _slideshare.
 _small_ad.
@@ -54331,7 +54339,7 @@ afkgaming.com##.ozw5N
 afootballreport.com###botnot
 afr.com###stickyLeaderboard
 afr.com###story_tools
-aframnews.com,afro.com,aurn.com,aviacionline.com,borneobulletin.com.bn,businessday.ng,businessofapps.com,chicagodefender.com,chimpreports.com,coinweek.com,collive.com,dailynews.co.zw,dailysport.co.uk,dallasvoice.com,defence-industry.eu,draxe.com,gatewaynews.co.za,gayexpress.co.nz,gematsu.com,islandecho.co.uk,jacksonvillefreepress.com,mediaplaynews.com,moviemaker.com,newpittsburghcourier.com,nondoc.com,richmondshiretoday.co.uk,sammobile.com,savannahtribune.com,spaceref.com,talkers.com,talkradioeurope.com,thegolfnewsnet.com,waamradio.com,womensagenda.com.au##.g
+aframnews.com,afro.com,aurn.com,aviacionline.com,borneobulletin.com.bn,businessday.ng,businessofapps.com,chicagodefender.com,chimpreports.com,coinweek.com,collive.com,coralspringstalk.com,dailynews.co.zw,dailysport.co.uk,dallasvoice.com,defence-industry.eu,draxe.com,gatewaynews.co.za,gayexpress.co.nz,gematsu.com,islandecho.co.uk,jacksonvillefreepress.com,mediaplaynews.com,moviemaker.com,newpittsburghcourier.com,nondoc.com,richmondshiretoday.co.uk,sammobile.com,savannahtribune.com,spaceref.com,talkers.com,talkradioeurope.com,thegolfnewsnet.com,waamradio.com,womensagenda.com.au##.g
 africacheck.org###block-webform
 africacheck.org##.region-footer-third
 africacheck.org,independent.com.mt,monthlyreview.org,telekom.com,thetruthaboutcars.com##.subscribe
@@ -55254,6 +55262,7 @@ artnet.com##.author-links
 artnews.com##.get-the-magazine__outer
 artnovion.com,buerger-profikueche.de,buerger.de,carhartt.com,facsa-eoficina.grupogimeno.com,inmoernio.com,inmomariacristina.com,inmonortealde.com,karriere-suedwestfalen.de,maisonsetappartements.fr,pli-petronas.com,southwark.gov.uk,swatch.com,torebrings.se,tucasatoledo.com,verdi-eiendom.no,warburg-bank.de##.reveal-modal-bg
 artofmanliness.com##.aom-subscribe
+artribune.com##.c-newsletter_wrap
 artscanvas.org##.funders
 artscanvas.org##.suggestion-box
 artsy.net##.IITnS
@@ -55652,7 +55661,7 @@ babylonbee.com,notthebee.com##.article-shareables
 babylonbee.com,notthebee.com##.overscroll-contain
 babylonbee.com,notthebee.com##.py-6.px-6
 babylonbee.com,notthebee.com##.transition-opacity
-babynamegenie.com,ecaytrade.com,nbcbayarea.com,nwherald.com,planetsourcecode.com,sciagaj.org,themuslimvibe.com,totalxbox.com,varsity.com,w3techs.com,wgxa.tv##.promo
+babynamegenie.com,ecaytrade.com,nbcbayarea.com,nwherald.com,overclock3d.net,planetsourcecode.com,sciagaj.org,themuslimvibe.com,totalxbox.com,varsity.com,w3techs.com,wgxa.tv##.promo
 babynamegenie.com,forless.com,worldtimeserver.com##.links
 backcar.fr,flat-ads.com,job.inshokuten.com#@#.ad-content
 backmarket.com##[data-test="banner"]
@@ -55881,7 +55890,7 @@ bdsmx.tube##.video-info > section
 bdsmx.tube##.wrapper > section
 bdsmx.tube##article > section
 bdsmx.tube,hotmovs.com,javdoe.fun,javdoe.sh,javtape.site,onlyporn.tube,porntop.com##.right
-bearingarms.com,heraldscotland.com,hotair.com,ilsettimanale.online,pjmedia.com,redstate.com,salisburyjournal.co.uk,townhall.com##.social-bar
+bearingarms.com,heraldscotland.com,hotair.com,ilsettimanale.online,pjmedia.com,redstate.com,salisburyjournal.co.uk,thecollegefix.com,townhall.com##.social-bar
 bearingarms.com,hotair.com,redstate.com##.fb-social
 bearingarms.com,hotair.com,redstate.com##.tw-social
 beatstars.com##mp-snackbar-info-messages
@@ -57104,7 +57113,7 @@ cathnews.co.nz,cryptoreporter.info,net-load.com,vgleaks.com,wakingtimes.com###te
 catholic.net##.publicidad
 catholicculture.org###SM_area
 catholicculture.org###subscribe_container
-catholicherald.co.uk,centralmaine.com,kusc.org,mondoweiss.net,motoring.com.au,pv-magazine-usa.com,sunjournal.com,threatpost.com,trendingpolitics.com,tylerwoodgroup.com,whoprofits.org,womensagenda.com.au,wvexplorer.com,yellowhammernews.com##.gform_widget
+catholicherald.co.uk,centralmaine.com,kusc.org,mondoweiss.net,motoring.com.au,pv-magazine-usa.com,sunjournal.com,thecollegefix.com,threatpost.com,trendingpolitics.com,tylerwoodgroup.com,whoprofits.org,womensagenda.com.au,wvexplorer.com,yellowhammernews.com##.gform_widget
 catracalivre.com.br###lgpd-box
 cattime.com,dogtime.com,liveoutdoors.com,playstationlifestyle.net,thefashionspot.com##.pb-in-article-content
 caustica.co##.floatin-button-container-social
@@ -57935,6 +57944,7 @@ coppelaer.nl##.ct-modal
 copyprogramming.com##.bg-yellow-400
 copyprogramming.com##.h-screen
 copyprogramming.com##.min-h-250
+coralspringstalk.com##.wpbdp-listings-widget-list
 core77.com##.promo_zone
 coreight.com##.bloc_reseau
 cornish-times.co.uk###teads
@@ -58044,7 +58054,7 @@ crictracker.com##div[class^="ad-block-"]
 cricwaves.com##.btm728
 crikey.com.au##.pm-socials-block
 crikey.com.au##.pm-todays-newsletter-block
-crimeonline.com,fivebooks.com,informer.com,open.online,opencritic.com,redvoicemedia.com,religionnews.com,tarreo.com,upcomingvinyl.com##.social-buttons
+crimeonline.com,fivebooks.com,informer.com,open.online,opencritic.com,redvoicemedia.com,religionnews.com,tarreo.com,thecollegefix.com,upcomingvinyl.com##.social-buttons
 crimereads.com,lithub.com###post_more_wrapper
 crimetime.com,elba.sk,karakartal.com,kartelluk.com,pmkariyer.com,sarsilmaz.com,superfb.com,webaslan.com##.cookie-text
 crimg.com.br##.containerAceite
@@ -58253,7 +58263,7 @@ daft.ie##.strapline-container
 dagbladet.no###db-inger
 dagbladet.no##.cIwTNh
 dagbladet.no##.css-pp-box
-dagelijksestandaard.nl,egyptianstreets.com,evonomics.com,gimmesomeoven.com,investordaily.com.au,macrumors.com,reductress.com,reliefweb.int,themichiganstar.com,theminnesotasun.com,theohiostar.com,wweek.com###mc-embedded-subscribe-form
+dagelijksestandaard.nl,egyptianstreets.com,evonomics.com,gimmesomeoven.com,investordaily.com.au,macrumors.com,reductress.com,reliefweb.int,theawesomer.com,themichiganstar.com,theminnesotasun.com,theohiostar.com,wweek.com###mc-embedded-subscribe-form
 dagrasso.pl,freedomtreks.co.uk,hiveon.com,hiveon.net,kritikos-sm.gr,skisafari.com,watch.plex.tv##div[class^="CookieBar"]
 dagsavisen.no###consent-container
 dahuasecurity.com##.partners
@@ -59995,6 +60005,8 @@ feedspot.com##.regoverlay
 feierabend.de#@##cookie-banner
 fembio.org,natur.com##.bg-wg-modal
 femina.hu##.m-cf-fejlec_container_inda_additional
+fender.com##.FooterSignup__SignupContainer-sc-bzm7ki-0
+fender.com##.fender-EmailSignup
 fepsa.pt##div[style^="height: 35px;"]
 ferienbon.de,hfm-stb.de,hoffmann-medien.com###Consent
 ferrarichat.com##.funzone
@@ -60505,7 +60517,7 @@ freebitz.xyz##.BannerContainer
 freebitz.xyz##.BannerContainerScrapper
 freebitz.xyz##.BannerMain
 freebunker.com,imagesnake.com,imgcarry.com,pornbus.org###introOverlayBg
-freecodecamp.org,monkeytype.com,singsnap.com##.banner
+freecodecamp.org,monkeytype.com,singsnap.com,wikipedia.org##.banner
 freecomiconline.me,lordmanga.com,mangahentai.me,manytoon.com,readfreecomics.com##.c-top-sidebar
 freecoursenet.cc##.wpforms-validate
 freecourseweb.com###text-20
@@ -63044,6 +63056,7 @@ jpost.com##.divConnatix
 jpost.com##.line-left-side-before-and-after-container
 jpost.com##.line-one-row-before-and-after-container
 jpost.com##.right-side-banner
+jpost.com##.sticky-top-banner
 jpsearch.go.jp##.jps-privacy-confirmation
 jquery.com##.sponsor-line
 jsps.go.jp##.notepanelWrap
@@ -70157,6 +70170,7 @@ theatlantic.com##div[class*="Leaderboard_placeholder_"]
 theatlantic.com##div[class^="ArticleShare_"]
 theautopian.com##[data-widget_type="html.default"]
 theautopian.com#?#.code-block:-abp-has(.htlad-InContent)
+theawesomer.com##.mxyptext
 thebaffler.com##.bg-graphite
 thebagster.com###ctl00_privacybanner_pnlPrivacyPolicy
 thebagster.com##.modalBackground
@@ -70206,6 +70220,7 @@ thechinaproject.com##.sticky-spacer
 thecity.nyc##.Navigation-items-social
 thecoastnews.com###robly_embed_signup
 thecoinrise.com##.pp_ad_block
+thecollegefix.com##.styled-social-box
 thecompleteuniversityguide.co.uk##.bnr_out
 thecountersignal.com###home-ad-1
 thecountersignal.com##.elementor-element-8d2cc6c
@@ -71625,6 +71640,7 @@ variety.com###jwplayer_xH3PjHXT_plsZnDJi_div
 variety.com###leaderboard-no-padding
 variety.com##.vip-banner
 varma.fi##.varma-footer-sticky
+varma.fi#@#.needsclick[aria-label][style]
 varzesh3.com#@#.cm-message
 vas.com.pl##div[style^="top:0;left:0;right:0;"]
 vaticannews.va##.social-btn
@@ -72350,6 +72366,7 @@ wikihow.com##.newsletter
 wikihow.com##.rr_newsletter_class
 wikihow.it###sf
 wikikeep.com##.widget-area
+wikipedia.org###centralNotice
 wikipedia.org###siteNotice
 wikiwand.com##.article_footerStickyAd__wvdui
 wikiwand.com##.article_sectionAd__rMyBc
@@ -73074,6 +73091,7 @@ zyro.com##.ebook-banner
 ||02ce917efd.com^
 ||037jav.com/wp-content/uploads/2021/04/*.gif
 ||0398067ebe.com^
+||03bdb617ed.com^
 ||03ed9035a0801f.com^
 ||04-f-bmf.com^
 ||041353e6dd.com^
@@ -73169,6 +73187,7 @@ zyro.com##.ebook-banner
 ||113aa22d76.com^
 ||116bea31bf.com^
 ||1187531871.rsc.cdn77.org^
+||1194047269.rsc.cdn77.org^
 ||11f1b925c4.com^
 ||11g1ip22h.de^
 ||11supjav.xyz^
@@ -74331,6 +74350,7 @@ zyro.com##.ebook-banner
 ||9d407e803d.com^
 ||9desires.xyz^$third-party
 ||9dmnv9z0gtoh.com^
+||9e1852531b.com^
 ||9eb10b7a3d04a.com^
 ||9ee93ebe3a.com^
 ||9f50508b3c.com^
@@ -74440,6 +74460,7 @@ zyro.com##.ebook-banner
 ||aabproxytests.top^
 ||aabproxytestsdomain.top^
 ||aabtestsproxydomain.top^
+||aac585e70c.com^
 ||aaddcount.com^$third-party
 ||aaf26c0e6a.com^
 ||aafdcq.com^
@@ -77441,6 +77462,7 @@ zyro.com##.ebook-banner
 ||arheth.com^
 ||arhvtaonkvi.com^
 ||ariadnethreadmin.com^
+||arianatainos.com^
 ||ariapawners.space^
 ||ariapawners.space^$popup
 ||aribut.com^
@@ -79716,6 +79738,7 @@ zyro.com##.ebook-banner
 ||bolivarmaltol.website^
 ||bolofoak.net^
 ||boloingopulent.guru^
+||boloptrex.com^
 ||bolrookr.com^
 ||bolsek.ru^
 ||bolssc.com^
@@ -80556,6 +80579,7 @@ zyro.com##.ebook-banner
 ||caesardamaging.com^
 ||caesaw.com^
 ||caffeine.tv/embed.js
+||caffeine.tv/embed/
 ||caffeinecontainerakin.com^$popup
 ||caffleklismos.website^
 ||cafonline.com/image/upload/*/sponsors/
@@ -81409,6 +81433,8 @@ zyro.com##.ebook-banner
 ||choconart.com^
 ||chodansinh.net^*.gif
 ||choicedorm.top^
+||choiceencounterjackson.com^
+||choiceencounterjackson.com^$popup
 ||chokedsmelt.com^
 ||chokedstarring.com^
 ||chokertraffic.com^$popup
@@ -83956,6 +83982,7 @@ zyro.com##.ebook-banner
 ||dabletoverdid.space^
 ||daccroi.com^
 ||dacmaiss.com^
+||dacnmevunbtu.com^
 ||dadhuhram.com^
 ||dadisary.buzz^
 ||dadosgratis.club^
@@ -84433,6 +84460,7 @@ zyro.com##.ebook-banner
 ||dejame.xyz^
 ||dejectionminus.com^
 ||dekkcewpqrep.com^
+||deksoolr.net^
 ||del-del-ete.com^
 ||delayeddisembroildisembroil.com^
 ||delbertgobans.com^
@@ -84596,6 +84624,7 @@ zyro.com##.ebook-banner
 ||desiremolecule.com^
 ||deskdecision.com^
 ||deskfrontfreely.com^
+||deskfrontfreely.com^$popup
 ||desklks.com^$popup
 ||desktopnotificationshub.com^
 ||desktopnotificationshub.com^$popup
@@ -85124,6 +85153,7 @@ zyro.com##.ebook-banner
 ||dl-rms.com^
 ||dl37p9e5e1vn0.cloudfront.net^
 ||dl5ft52dtazxd.cloudfront.net^
+||dle-news.xyz^
 ||dledthebarrowb.com^
 ||dledthebarrowb.xyz^
 ||dlem1deojpcg7.cloudfront.net^
@@ -87651,6 +87681,7 @@ zyro.com##.ebook-banner
 ||fatalityplatinumthing.com^
 ||fatchilli.media^
 ||fatebbc.pro^
+||fathmurcurable.com^
 ||fathuntsgall.com^
 ||fatimacapos.com^
 ||fatlossremedies.com^
@@ -88125,6 +88156,7 @@ zyro.com##.ebook-banner
 ||fjdpdcdndc.com^
 ||fjoyewwxrowqy.com^
 ||fjttbkoxer.xyz^
+||fkbkun.com^
 ||fkbwtoopwg.com^
 ||fkcvtiqbbgedb.com^
 ||fkexeijtqstuh.xyz^
@@ -88499,6 +88531,7 @@ zyro.com##.ebook-banner
 ||forseisemelo.top^
 ||forsookjaeger.com^
 ||forsphealan.com^
+||forsungprosode.com^
 ||forsungstoolie.com^
 ||fortaillowon.com^
 ||fortaiwy.xyz^
@@ -89542,6 +89575,7 @@ zyro.com##.ebook-banner
 ||gitechiphy.pro^$popup
 ||gitoku.com^
 ||giufjcfjdv.com^
+||givaphofklu.com^
 ||givealittle.co.nz/widget/$subdocument,third-party
 ||giveesqtnq.com^
 ||givememmastreams.com^$third-party
@@ -90794,6 +90828,7 @@ zyro.com##.ebook-banner
 ||heatpracticallyease.com^
 ||heauty-viesected.com^$all
 ||heavenexceed.com^
+||heavenfull.com^
 ||heavenfull.com^$popup
 ||heavengenerate.com^
 ||heavenly-landscape.com^
@@ -91291,6 +91326,7 @@ zyro.com##.ebook-banner
 ||homeschoolmath.net/a/
 ||homesickheron.com^
 ||homespotaudience.com^
+||homierceston.top^
 ||hommmaq.com^
 ||homoactive.tv/banner/
 ||homosexualprovenance.com^$popup
@@ -93629,6 +93665,8 @@ zyro.com##.ebook-banner
 ||jscount.com^
 ||jsdelivr.net/gh/$domain=chrome-stats.com|edge-stats.com|firefox-stats.com
 ||jsdelivr.net/gh/InteractiveAdvertisingBureau/
+||jsdelivr.net/npm/devtools-detector
+||jsdelivr.net/npm/disable-devtool
 ||jsdelivr.net/npm/prebid-
 ||jsdelvr.com^
 ||jsfeedadsget.com^
@@ -93937,6 +93975,7 @@ zyro.com##.ebook-banner
 ||kbao7755.de^
 ||kbjfree.com/assets/scripts/popad.js
 ||kbkewkjlqjqzr.top^
+||kbmaxbfpbfw.com^
 ||kbmcpatd.com^
 ||kbqebfcubeiaa.com^
 ||kbugxeslbjc8.com^
@@ -94181,6 +94220,7 @@ zyro.com##.ebook-banner
 ||kjheamwouk.xyz^
 ||kjisypvbsanmlem.xyz^
 ||kjjbgclciiay.xyz^
+||kjklisbcab.com^
 ||kjotkqyzxe.com^
 ||kjqlmeaykennr.top^
 ||kjsvvnzcto.com^
@@ -94289,6 +94329,7 @@ zyro.com##.ebook-banner
 ||koapsuha.net^
 ||kobeden.com^
 ||kocairdo.net^
+||kocairdo.net^$popup
 ||kocaisin.xyz^
 ||kochov.com^
 ||kodagupinkoes.com^
@@ -95607,6 +95648,7 @@ zyro.com##.ebook-banner
 ||lpages.co/serve-leadbox/$third-party
 ||lpaqjnfmxftqfx.com^
 ||lpawakkabpho.com^
+||lpeqztx.com^
 ||lpetooopz.com^
 ||lpfmeavbcqbmy.com^
 ||lpfulinotaherere.info^
@@ -98405,6 +98447,7 @@ zyro.com##.ebook-banner
 ||nlntrk.com^
 ||nlop.xyz^
 ||nlqqrsgr.com^
+||nlzxclfg.com^
 ||nmanateex.top^
 ||nmcdn.us^
 ||nmcpmjreuswnzs.com^
@@ -98538,6 +98581,7 @@ zyro.com##.ebook-banner
 ||normugtog.com^
 ||northleaderpayback.com^
 ||northmay.com^
+||northwestdiddived.com^
 ||norwaypost.no/images/banners/
 ||norymo.com^
 ||nosebleedlonerdays.com^
@@ -98793,6 +98837,7 @@ zyro.com##.ebook-banner
 ||nunciosmegasse.website^
 ||nunhoefey.com^
 ||nuniceberg.com^
+||nupdhyzetb.com^
 ||nupharbakongo.com^
 ||nuphizarrafw.com^
 ||nuqwe.com^
@@ -98865,6 +98910,7 @@ zyro.com##.ebook-banner
 ||nzikpan.com^
 ||nzilixqaxocl.com^
 ||nzme-ads.co.nz^
+||nzuebfy.com^
 ||o-oo.ooo^
 ||o18.click^
 ||o18.click^$popup
@@ -99220,6 +99266,7 @@ zyro.com##.ebook-banner
 ||ogtgurmzeoj.com^
 ||ogtrk.net^$popup
 ||ogury.mgr.consensu.org^$third-party
+||ohaijoub.com^
 ||ohdrgrpfyvughty.xyz^
 ||ohelgbbileii.xyz^
 ||oherhome.xyz^
@@ -100105,6 +100152,7 @@ zyro.com##.ebook-banner
 ||outelectrodean.com^
 ||outensootier.guru^
 ||outflednailbin.com^
+||outfortbogwort.guru^
 ||outgateniceish.com^
 ||outgivefaculae.store^
 ||outglowkeysets.guru^
@@ -100147,6 +100195,7 @@ zyro.com##.ebook-banner
 ||outstanding-tie.pro^
 ||outstandingspread.com^
 ||outster.com^$third-party
+||outsudoo.net^
 ||outtaskhautein.guru^
 ||outtimburrtor.com^
 ||outtunova.com^
@@ -102136,6 +102185,7 @@ zyro.com##.ebook-banner
 ||pphauantic.com^
 ||ppixufsalgm.com^
 ||pplferio.com^
+||pplgwic.com^
 ||ppoommhizazn.com^
 ||ppovysmcycmwvv.com^
 ||pppbr.com^
@@ -103476,6 +103526,7 @@ zyro.com##.ebook-banner
 ||qqqqbdma.com^
 ||qqqwes.com^
 ||qquubyoknj.com^
+||qqvlbzlbqenbk.top^
 ||qqvthrkrseoog.com^
 ||qqvvkebebnbb.top^
 ||qqvvkebebnlq.top^
@@ -104877,6 +104928,7 @@ zyro.com##.ebook-banner
 ||rljybcormiv.com^
 ||rlomivunesqal.com^
 ||rlrekuaonqt.com^
+||rlsspiuyx.com^
 ||rlvvakyuipqbl.com^
 ||rlwiupbqn.com^
 ||rmanentsyshru.com^
@@ -105288,6 +105340,7 @@ zyro.com##.ebook-banner
 ||rumandwaterv.info^
 ||rumble.com^$domain=tiphero.com
 ||rumblyjouking.store^
+||rumimorigu.com^
 ||rumlesswithing.com^
 ||rummagemason.com^
 ||rummagemason.com^$popup
@@ -105720,6 +105773,7 @@ zyro.com##.ebook-banner
 ||sbxitxnmfxzyf.com^
 ||sbxsdvwfabvx.com^
 ||sbyqtugtfe.com^
+||scabtauter.uno^
 ||scadsstar.com^
 ||scadstech.com^
 ||scadstech.com^$popup
@@ -106928,6 +106982,7 @@ zyro.com##.ebook-banner
 ||slapexcitedly.com^
 ||slaqandsan.xyz^
 ||slaresolidi.com^
+||slartsighter.com^
 ||slartwomans.com^
 ||slashcynical.com^
 ||slashdot.org^$third-party
@@ -107114,6 +107169,7 @@ zyro.com##.ebook-banner
 ||smi.pp.ua^$third-party
 ||smi.today^$third-party
 ||smi2.ru^$third-party
+||smigdxy.com^
 ||smigro.info^
 ||smiinformeri.online^$third-party
 ||smileoffennec.com^
@@ -107390,6 +107446,7 @@ zyro.com##.ebook-banner
 ||solvusserosal.com^
 ||somberalcyon.com^
 ||sombes.com^
+||sombrdybhwa.com^
 ||somebestgamesus.com^$popup
 ||somecdn.bid^
 ||somehowluxuriousreader.com^
@@ -107486,6 +107543,7 @@ zyro.com##.ebook-banner
 ||soupevents.com^
 ||soupteep.xyz^
 ||souptrip.com^
+||souraivo.xyz^
 ||sourcebloodless.com^
 ||sourcepoint-mms.aetv.com^
 ||sourcepoint-mms.history.com^
@@ -107797,6 +107855,7 @@ zyro.com##.ebook-banner
 ||sqydhgubsy.com^
 ||sr7pv7n5x.com^
 ||sr7pv7n5x.com^$popup
+||srabwfqwjoc.com^
 ||srasylzu.com^
 ||src.ebay-us.com/*=usllpic$script,domain=ebay.com
 ||srcsmrtgs.com^
@@ -108609,6 +108668,7 @@ zyro.com##.ebook-banner
 ||sutiletoroid.com^
 ||sutraf.com^
 ||suwotsoukry.com^
+||suwytid.com^
 ||suxobjjrokh.com^
 ||suxtryawma.com^
 ||suyextfn.com^
@@ -109536,6 +109596,7 @@ zyro.com##.ebook-banner
 ||thetoptrust.com^
 ||thetoptrust.com^$popup
 ||thetrendytales.com^
+||thetreuntalle.com^
 ||theupgradedata.com^$all
 ||theusualsuspects.biz^
 ||theusualsuspects.biz^$popup
@@ -112220,6 +112281,7 @@ zyro.com##.ebook-banner
 ||vfjmmodcgwxrr.com^
 ||vfjydbpywqwe.xyz^
 ||vfl81ea28aztw7y3.pro^
+||vflouksffoxmlnk.xyz^
 ||vfreecams.com^$third-party
 ||vfthr.com^$all
 ||vftqmnqopdf.xyz^
@@ -113100,6 +113162,7 @@ zyro.com##.ebook-banner
 ||waufooke.com^$popup
 ||waughtsquint.com^
 ||waugique.net^
+||waunsgraphs.website^
 ||waushaup.com^
 ||waushool.com^
 ||waust.at^
@@ -113668,6 +113731,7 @@ zyro.com##.ebook-banner
 ||wikeqa.uno^
 ||wikidichz.net/static/js/adx/$script
 ||wikihow.com/x/zscsucgm?
+||wikimedia.org/w/index.php?title=Special:BannerLoader
 ||wikisach.net/static/js/adx/$script
 ||wilcooxcheek.com^
 ||wild-plant.pro^
@@ -114537,6 +114601,7 @@ zyro.com##.ebook-banner
 ||xxaparfuel.xyz^
 ||xxccdshj.com^
 ||xxcpsqquegwmi.com^
+||xxdjxbvafjlw.com^
 ||xxe2.com^
 ||xxerotica.com/xxerotica.js
 ||xxgqsbfwbmtqa.com^
@@ -114575,6 +114640,7 @@ zyro.com##.ebook-banner
 ||xxxviijmp.com^
 ||xxxvipporno.com^
 ||xxxvjmp.com^
+||xxxvjmp.com^$popup
 ||xxxvogue.net/_ad
 ||xxxwebtraffic.com^
 ||xxxxsx.com/sw.js
@@ -114728,6 +114794,7 @@ zyro.com##.ebook-banner
 ||ygamey.com^$popup
 ||ygfytomneijjj.com^
 ||ygzkedoxwhqlzp.com^
+||yhbcii.com^
 ||yhbcii.com^$popup
 ||yhgameofmu.xyz^
 ||yhhrtgltcfta.com^
@@ -114989,6 +115056,7 @@ zyro.com##.ebook-banner
 ||ytsa.net^
 ||ytsyifys.com/go.$popup
 ||yttompthree.com^
+||ytvigqwx.com^
 ||ytzihf.com^
 ||yu0123456.com^
 ||yuhqeim.com^
