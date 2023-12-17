@@ -51789,6 +51789,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /upprev.js
 /upprev_js.php
 /usecookies.js
+/usercentrics/cmp.js
 /userlike-cdn-
 /util/gdpr/geo_v1.js
 /util/gdpr/geo_v3.js
@@ -51805,7 +51806,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /v9/adv/*
 /validateArticleShareCount.
 /valnet-header-ads.
-/vast.js$script,domain=api.anime3s.com|tvzinghd.com|ophimhay.com|player.4shares.live|animevietsub.boctem.com|cdn.tinny2.tech|cdn.lookapi.website
+/vast.js$script,domain=api.anime3s.com|tvzinghd.com|ophimhay.com|4shares.live|animevietsub.boctem.com|cdn.tinny2.tech|cdn.lookapi.website
 /vast/?zid=
 /vclkads.
 /vendor-ads-
@@ -53926,7 +53927,7 @@ abcya.com##.a-leader
 abcya.com##.a-skyscraper
 abeautifulmess.com,afamilyfeast.com,airandspaceforces.com,thebestcakerecipes.com##.block-subscribe
 abekker.ru###GDPR-container
-abels.co.uk,beebeeboard.com,cetpenedes.cat,eurooptions.co.uk##.cky-consent-container
+abels.co.uk,beebeeboard.com,cetpenedes.cat,cvonline.varbamisteenused.ee,eurooptions.co.uk##.cky-consent-container
 abendzeitung-muenchen.de###webpush-app
 aberdeenlive.news,belfastlive.co.uk,birminghammail.co.uk,bristolpost.co.uk,buckinghamshirelive.com,business-live.co.uk,buzz.ie,cambridge-news.co.uk,cheshire-live.co.uk,chroniclelive.co.uk,cornwalllive.com,coventrytelegraph.net,dailypost.co.uk,dailyrecord.co.uk,dailystar.co.uk,derbytelegraph.co.uk,devonlive.com,dorset.live,dublinlive.ie,edinburghlive.co.uk,essexlive.news,examinerlive.co.uk,gazettelive.co.uk,getsurrey.co.uk,glasgowlive.co.uk,gloucestershirelive.co.uk,grimsbytelegraph.co.uk,hertfordshiremercury.co.uk,hulldailymail.co.uk,insider.co.uk,irishmirror.ie,kentlive.news,lancs.live,leeds-live.co.uk,leicestermercury.co.uk,lincolnshirelive.co.uk,liverpoolecho.co.uk,manchestereveningnews.co.uk,mirror.co.uk,mylondon.news,norfolklive.co.uk,nottinghampost.com,ok.co.uk,oxfordshirelive.co.uk,plymouthherald.co.uk,somersetlive.co.uk,staffordshire-live.co.uk,stokesentinel.co.uk,walesonline.co.uk,wiltshirelive.co.uk##.swipe-prompt
 aberdeenplumberservices.co.uk,firstcallmotorbreakdown.co.uk,pattheduck.com###FISLCC
@@ -57157,6 +57158,7 @@ chaseyoursport.com##.new-adv
 chaseyoursport.com##.side-adv-block-blog-open
 chasingcars.com.au##.c-notification-bar
 chasingcars.com.au##.c-strap--youtube
+chat.vebotv.me##[href="https://8xbe52.com"]
 chatelaine.com,macleans.ca##.hero-sidebar
 chatelaine.com,macleans.ca##.under-article-widget-nl
 chatreplay.stream##.c1wnhq38.container
@@ -58111,6 +58113,7 @@ cutegurlz.com##.header-widget
 cutepdf-editor.com#@#.adtable
 cutyt.com,onlineocr.net,publish0x.com##.d-xl-block
 cuxlandparks.de##sw-cookiemessage
+cv.ee,cv.lv,cvonline.lt##.cookie-consent-container
 cv.fr##.bg-gray-900.p-5
 cvedetails.com###cookieconsentwarningcontainer
 cvent.com##.block-notifications-block
@@ -58690,6 +58693,7 @@ diners.co.jp,sumitclub.jp##.dc__pagetop
 dinheirovivo.pt##.t-s18-i
 dinheirovivo.pt,tsf.pt##.t-f-bar-apps
 diotec.com##.privacyoption_overlay
+dirbam.lt,otsintood.ee,visidarbi.lv,zaposlitev.net##.vd-message-wrapper
 direcaoconcursos.com.br##.sc-faada46b-0
 direktbroker-fx.de###cologindiv
 direktesport.no##[aria-label="Informasjonskapsler"]
@@ -61321,6 +61325,8 @@ greenbaycrimereports.com##[data-original-width="820"]
 greenbiz.com##.subscribe-block-container
 greenbiz.com,iranwire.com,techtimes.com,vcpost.com##.subscribe-block
 greenbot.com##.social_panel
+greenbuildingadvisor.com##.article__social
+greenbuildingadvisor.com##.module--email-cta
 greencarreports.com,motorauthority.com##.adv-spacer
 greencounsel.se###getCookieConsentDialog
 greencounsel.se##.md-dialog-backdrop
@@ -81920,6 +81926,7 @@ zyro.com##.ebook-banner
 ||cmp.tvspielfilm.de^
 ||cmp.uniconsent.com^
 ||cmp.vg.no^
+||cmp.vizus.cz^
 ||cmpgns.net^
 ||cmpgns.net^$popup
 ||cmptatbpxo.xyz^
@@ -85434,6 +85441,7 @@ zyro.com##.ebook-banner
 ||dpdnav.com^
 ||dpfantasy.org/k2s.gif
 ||dpfchqsiksjuyjc.xyz^
+||dpgmedia.net/consent.js
 ||dphpycbr.com^
 ||dphunters.com^$third-party
 ||dpipel.com^
@@ -96436,6 +96444,7 @@ zyro.com##.ebook-banner
 ||mds.nipa.co.th^$third-party
 ||mdsngpush.finanzen.net^
 ||me-talk.ru/support/sounds/
+||me9ddf.moebelix.cz^
 ||meadowaerial.com^$popup
 ||meadowdocumentcaprizecaprize.com^
 ||meagerdrawing.pro^
